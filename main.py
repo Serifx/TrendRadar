@@ -1218,20 +1218,20 @@ class ReportGenerator:
                 .titles { max-width: 500px; }
                 .source { color: #666; font-style: italic; }
                 .error { color: #d9534f; }
-                .news-link { 
-                    color: #007bff; 
-                    text-decoration: none; 
+                .news-link {
+                    color: #007bff;
+                    text-decoration: none;
                     border-bottom: 1px dotted #007bff;
                 }
-                .news-link:hover { 
-                    color: #0056b3; 
-                    text-decoration: underline; 
+                .news-link:hover {
+                    color: #0056b3;
+                    text-decoration: underline;
                 }
-                .news-link:visited { 
-                    color: #6f42c1; 
+                .news-link:visited {
+                    color: #6f42c1;
                 }
-                .no-link { 
-                    color: #333; 
+                .no-link {
+                    color: #333;
                 }
                 .new-title {
                     background-color: #fff3cd;
